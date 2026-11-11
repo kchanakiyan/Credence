@@ -20,7 +20,8 @@ import {
   LineChart,
   Table,
   Mail,
-  Share2
+  Share2,
+  MoreVertical
 } from 'lucide-react';
 import {
   AreaChart,
